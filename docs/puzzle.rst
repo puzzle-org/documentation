@@ -1,6 +1,6 @@
-============
-Installation
-============
+================
+What is Puzzle ?
+================
 
 Install the package with pip::
 
