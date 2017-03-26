@@ -14,7 +14,7 @@ AMQP
 
 Manage AMQP messages (publishing and consuming)
 
-`Full documentation <http://www.puzzle-php.com/projects/amqp>`_
+`Full documentation <http://www.puzzle-php.com/projects/amqp/en/latest>`_
 
 Assert
 ------
